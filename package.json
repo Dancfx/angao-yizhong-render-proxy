@@ -1,0 +1,15 @@
+{
+  "name": "angao-yizhong-render-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy for Angao Yizhong Biaobaiqiang",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
